@@ -1,37 +1,52 @@
-## Welcome to GitHub Pages
+# About the TLC's Product Team
 
-You can use the [editor on GitHub](https://github.com/InternicolaJ/AwesomeMobilityProducts/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+The New York City Taxi Limousine Commission is building a Product Development team. Our mission is to create products that help us better serve our staff, our licensees, and the millions of customers who rely on services like Uber, Lyft, Via to get around the city each day. The TLC, a long-time trail blazer in building open data products, needs your help as we take on the next steps to improve data transparency and make city government a little more human-focused.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+# Our Positions
 
-### Markdown
+## Current Openings
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Client-Facing Product Manager
+**Short Description** In essence, your role is to understand the needs of our clients, prototype solutions to their problems, develop a product roadmap, and then work with our development team to implement your vision.
 
-```markdown
-Syntax highlighted code block
+**Your Day to Day** 
+- Use user research methodologies to understand client needs
+- Prototype solutions and get early feedback from actual users
+- Analyze data about our users to come up with product solutions and projected impact of those solutions
+- Manage the product backlog and roadmap for client-facing products
+- Work with the development team to implement your vision
 
-# Header 1
-## Header 2
-### Header 3
+**About You** 
+- You like working with people
+- You know how to work with people with limited english proficiency
+- Prototyping experience is a plus
+- Design experience is a plus
+- User research experience is a plus
+- Experience working with developers is a plus
 
-- Bulleted
-- List
+### Back Office Product Manager
+**Short Description** In essence, your role is to understand the needs of our back office staff as they serve our clients, prototype solutions to their problems, develop a product roadmap, and then work with our development team to implement your vision.
 
-1. Numbered
-2. List
+**Your Day to Day** 
+- Use user research methodologies to understand what tools our back office staff needs to better serve our clients
+- Prototype solutions and get early feedback from actual users
+- Analyze data about our users to come up with product solutions and projected impact of those solutions
+- Manage the product backlog and roadmap for back office products
+- Work with the development team to implement your vision
 
-**Bold** and _Italic_ and `Code` text
+**About You** 
+- You like working with people
+- You know how to work with non-technical stakeholders
+- Prototyping experience is a plus
+- Design experience is a plus
+- User research experience is a plus
+- Experience working with developers is a plus
 
-[Link](url) and ![Image](src)
-```
+### Openings Coming Soon
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+- Data Engineer
+- Data Analyst
 
-### Jekyll Themes
+## How to Apply?
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/InternicolaJ/AwesomeMobilityProducts/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Go to: [Jobs.NYC.gov](https://a127-jobs.nyc.gov) and search for job id 999999
