@@ -23,7 +23,7 @@ The New York City Taxi Limousine Commission is building a Product Development te
 - Data analysis experience is a plus
 - Experience working with developers is a plus
 
-***Sound like a good role for you?*  [Apply here!](https://a127-jobs.nyc.gov/psc/nycjobs/EMPLOYEE/HRMS/c/HRS_HRAM.HRS_APP_SCHJOB.GBL?Page=HRS_APP_JBPST&Action=U&FOCUS=Applicant&SiteId=1&JobOpeningId=384481&PostingSeq=1)***
+***Sound like a good role for you?  [Apply here!](https://a127-jobs.nyc.gov/psc/nycjobs/EMPLOYEE/HRMS/c/HRS_HRAM.HRS_APP_SCHJOB.GBL?Page=HRS_APP_JBPST&Action=U&FOCUS=Applicant&SiteId=1&JobOpeningId=384481&PostingSeq=1)***
 
 *Link doesn't work? Go here: [NYC.Jobs](https://a127-jobs.nyc.gov/) and search job id: 384481*
 
@@ -46,7 +46,7 @@ The New York City Taxi Limousine Commission is building a Product Development te
 - Data analysis experience is a plus
 - Experience working with developers is a plus
 
-***Sound like a good role for you?*  [Apply here!](https://a127-jobs.nyc.gov/psc/nycjobs/EMPLOYEE/HRMS/c/HRS_HRAM.HRS_APP_SCHJOB.GBL?Page=HRS_APP_JBPST&Action=U&FOCUS=Applicant&SiteId=1&JobOpeningId=384481&PostingSeq=1)***
+***Sound like a good role for you?  [Apply here!](https://a127-jobs.nyc.gov/psc/nycjobs/EMPLOYEE/HRMS/c/HRS_HRAM.HRS_APP_SCHJOB.GBL?Page=HRS_APP_JBPST&Action=U&FOCUS=Applicant&SiteId=1&JobOpeningId=384481&PostingSeq=1)***
 
 *Link doesn't work? Go here: [NYC.Jobs](https://a127-jobs.nyc.gov/) and search job id: 384481*
 
