@@ -20,6 +20,7 @@ The New York City Taxi Limousine Commission is building a Product Development te
 - Prototyping experience is a plus
 - Design experience is a plus
 - User research experience is a plus
+- Data analysis experience is a plus
 - Experience working with developers is a plus
 
 *Sound like a good role for you?*  ***[Apply here!](https://a127-jobs.nyc.gov/psc/nycjobs/EMPLOYEE/HRMS/c/HRS_HRAM.HRS_APP_SCHJOB.GBL?Page=HRS_APP_JBPST&Action=U&FOCUS=Applicant&SiteId=1&JobOpeningId=384481&PostingSeq=1)***
@@ -40,6 +41,7 @@ The New York City Taxi Limousine Commission is building a Product Development te
 - Prototyping experience is a plus
 - Design experience is a plus
 - User research experience is a plus
+- Data analysis experience is a plus
 - Experience working with developers is a plus
 
 *Sound like a good role for you?*  ***[Apply here!](https://a127-jobs.nyc.gov/psc/nycjobs/EMPLOYEE/HRMS/c/HRS_HRAM.HRS_APP_SCHJOB.GBL?Page=HRS_APP_JBPST&Action=U&FOCUS=Applicant&SiteId=1&JobOpeningId=384481&PostingSeq=1)***
