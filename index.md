@@ -52,7 +52,7 @@ The New York City Taxi Limousine Commission is building a Product Development te
 - Freedom to try new ideas and approaches
 - Relaxed work environment
 - Strong work/life balance
-- Great health benefit and retirement options
+- Great health benefits and retirement options
 - 11 paid holidays, plus three weeks of vacation
 
 # Openings Coming Soon
