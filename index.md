@@ -54,8 +54,7 @@ The New York City Taxi Limousine Commission is building a Product Development te
 
 # Openings Coming Soon
 
-- Data Engineer
-- Data Analyst
+_Some awesome data jobs! Check back **soon**!_
 
 # How to Apply?
 
