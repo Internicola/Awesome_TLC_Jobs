@@ -22,6 +22,8 @@ The New York City Taxi Limousine Commission is building a Product Development te
 - User research experience is a plus
 - Experience working with developers is a plus
 
+*Sound like a good role for you?*  ***[Apply here!](https://a127-jobs.nyc.gov/psc/nycjobs/EMPLOYEE/HRMS/c/HRS_HRAM.HRS_APP_SCHJOB.GBL?Page=HRS_APP_JBPST&Action=U&FOCUS=Applicant&SiteId=1&JobOpeningId=384481&PostingSeq=1)***
+
 ### Back Office Product Manager
 **Short Description** In essence, your role is to understand the needs of our back office staff as they serve our clients, prototype solutions to their problems, develop a product roadmap, and then work with our development team to implement your vision.
 
@@ -40,6 +42,16 @@ The New York City Taxi Limousine Commission is building a Product Development te
 - User research experience is a plus
 - Experience working with developers is a plus
 
+*Sound like a good role for you?*  ***[Apply here!](https://a127-jobs.nyc.gov/psc/nycjobs/EMPLOYEE/HRMS/c/HRS_HRAM.HRS_APP_SCHJOB.GBL?Page=HRS_APP_JBPST&Action=U&FOCUS=Applicant&SiteId=1&JobOpeningId=384481&PostingSeq=1)***
+
+# Why Join Our Team?
+- Opportunity to make a major impact on the city of New York
+- Relaxed work environment
+- Freedom to try to new ideas and approaches
+- Strong work/life balance
+- Great health and retirement options
+- 11 paid holidays, plus three weeks of vacation
+
 # Openings Coming Soon
 
 - Data Engineer
@@ -47,4 +59,4 @@ The New York City Taxi Limousine Commission is building a Product Development te
 
 # How to Apply?
 
-Go to: [Jobs.NYC.gov](https://a127-jobs.nyc.gov) and search for job id 999999
+**Interested?** ***[Easily Apply here!](https://a127-jobs.nyc.gov/psc/nycjobs/EMPLOYEE/HRMS/c/HRS_HRAM.HRS_APP_SCHJOB.GBL?Page=HRS_APP_JBPST&Action=U&FOCUS=Applicant&SiteId=1&JobOpeningId=384481&PostingSeq=1)***
