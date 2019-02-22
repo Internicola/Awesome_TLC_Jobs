@@ -46,8 +46,9 @@ The New York City Taxi Limousine Commission is building a Product Development te
 
 # Why Join Our Team?
 - Opportunity to make a major impact on the city of New York
-- Relaxed work environment
+- Access to amazing data sources and a lab-like setting for prototyping concepts
 - Freedom to try to new ideas and approaches
+- Relaxed work environment
 - Strong work/life balance
 - Great health and retirement options
 - 11 paid holidays, plus three weeks of vacation
