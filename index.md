@@ -128,6 +128,6 @@ _MORE awesome data jobs! Check back **soon**!_
 ##
 # How to Apply?
 
-**Interested?** ***[Easily Apply here!](https://a127-jobs.nyc.gov/psc/nycjobs/EMPLOYEE/HRMS/c/HRS_HRAM.HRS_APP_SCHJOB.GBL?Page=HRS_APP_JBPST&Action=U&FOCUS=Applicant&SiteId=1&JobOpeningId=384481&PostingSeq=1)***
+**Interested?** Go here: [NYC.Jobs](https://a127-jobs.nyc.gov/) and use the following job IDs:
 
-*Link doesn't work? Go here: [NYC.Jobs](https://a127-jobs.nyc.gov/) and search job id: 384481*
+Product roles :: job id:384481 | Data Analyst role :: job id:385672 | Data Engineer role :: job id:385662
