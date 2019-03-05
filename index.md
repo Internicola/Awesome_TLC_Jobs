@@ -51,7 +51,7 @@ The New York City Taxi Limousine Commission is building a Product Development te
 *Link doesn't work? Go here: [NYC.Jobs](https://a127-jobs.nyc.gov/) and search job id: 385672*
 
 ### Data Engineer
-**Short Description** In essence, your role is to make our data accessible, streamlined, and usable. When your not thinking through large-scale data improvement projects, you will be working on building out the division's self-service platform, and taking on long-term research projects.
+**Short Description** In essence, your role is to make our data accessible, streamlined, and usable. When you're not working on large-scale data improvement projects, you will be building out the division's self-service platform, and taking on long-term research projects.
 
 **Your Day to Day** 
 - Work with our IT department to improve underlying data structures
