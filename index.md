@@ -1,9 +1,13 @@
 # About the TLC's Product Team
 
 The New York City Taxi Limousine Commission is building a Product Development team. Our mission is to create products that help us better serve our staff, our licensees, and the millions of customers who rely on services like Uber, Lyft, Via, Juno, taxis, and more to get around the city. The TLC, a long-time trail blazer in building open data products, needs your help as we take on the next steps to improve data transparency and make city government a little more human-focused.
+##
 
+##
 # Current Openings
+##
 
+##
 ### Client-Facing Product Manager
 **Short Description** In essence, your role is to understand the needs of our clients, prototype solutions to their problems, develop a product roadmap, and then work with our development team to implement your vision.
 
@@ -26,7 +30,9 @@ The New York City Taxi Limousine Commission is building a Product Development te
 ***Sound like a good role for you?  [Apply here!](https://a127-jobs.nyc.gov/psc/nycjobs/EMPLOYEE/HRMS/c/HRS_HRAM.HRS_APP_SCHJOB.GBL?Page=HRS_APP_JBPST&Action=U&FOCUS=Applicant&SiteId=1&JobOpeningId=384481&PostingSeq=1)***
 
 *Link doesn't work? Go here: [NYC.Jobs](https://a127-jobs.nyc.gov/) and search job id: 384481*
-
+ ##
+ 
+ ##
 ### Data Analyst
 **Short Description** In essence, your role is to uncover underlying data patterns, make information accessible to non-technical stakeholders, and take on large-scale research/modeling projects to help the agency make better decisions.
 
@@ -49,7 +55,9 @@ The New York City Taxi Limousine Commission is building a Product Development te
 ***Sound like a good role for you?  [Apply here!](https://a127-jobs.nyc.gov/psc/nycjobs/EMPLOYEE/HRMS/c/HRS_HRAM.HRS_APP_SCHJOB.GBL?Page=HRS_APP_JBPST&Action=U&FOCUS=Applicant&SiteId=1&JobOpeningId=385672&PostingSeq=1)***
 
 *Link doesn't work? Go here: [NYC.Jobs](https://a127-jobs.nyc.gov/) and search job id: 385672*
-
+##
+ 
+##
 ### Data Engineer
 **Short Description** In essence, your role is to make our data accessible, streamlined, and usable. When you're not working on large-scale data improvement projects, you will be building out the division's self-service platform, and taking on long-term research projects.
 
@@ -73,7 +81,9 @@ The New York City Taxi Limousine Commission is building a Product Development te
 ***Sound like a good role for you?  [Apply here!](https://a127-jobs.nyc.gov/psc/nycjobs/EMPLOYEE/HRMS/c/HRS_HRAM.HRS_APP_SCHJOB.GBL?Page=HRS_APP_JBPST&Action=U&FOCUS=Applicant&SiteId=1&JobOpeningId=385662&PostingSeq=1)***
 
 *Link doesn't work? Go here: [NYC.Jobs](https://a127-jobs.nyc.gov/) and search job id: 385662*
+##
 
+##
 ### Back Office Product Manager
 **Short Description** In essence, your role is to understand the needs of our back office staff as they serve our clients, prototype solutions to their problems, develop a product roadmap, and then work with our development team to implement your vision.
 
@@ -96,7 +106,9 @@ The New York City Taxi Limousine Commission is building a Product Development te
 ***Sound like a good role for you?  [Apply here!](https://a127-jobs.nyc.gov/psc/nycjobs/EMPLOYEE/HRMS/c/HRS_HRAM.HRS_APP_SCHJOB.GBL?Page=HRS_APP_JBPST&Action=U&FOCUS=Applicant&SiteId=1&JobOpeningId=384481&PostingSeq=1)***
 
 *Link doesn't work? Go here: [NYC.Jobs](https://a127-jobs.nyc.gov/) and search job id: 384481*
+##
 
+##
 # Why Join Our Team?
 - Opportunity to make a major impact on the city of New York
 - Access to amazing data sources and a lab-like setting for prototyping concepts
@@ -105,11 +117,15 @@ The New York City Taxi Limousine Commission is building a Product Development te
 - Strong work/life balance
 - Great health benefits and retirement options
 - 11 paid holidays, plus three weeks of vacation
+##
 
+##
 # Openings Coming Soon
 
 _MORE awesome data jobs! Check back **soon**!_
+##
 
+##
 # How to Apply?
 
 **Interested?** ***[Easily Apply here!](https://a127-jobs.nyc.gov/psc/nycjobs/EMPLOYEE/HRMS/c/HRS_HRAM.HRS_APP_SCHJOB.GBL?Page=HRS_APP_JBPST&Action=U&FOCUS=Applicant&SiteId=1&JobOpeningId=384481&PostingSeq=1)***
