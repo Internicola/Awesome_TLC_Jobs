@@ -108,7 +108,7 @@ The New York City Taxi Limousine Commission is building a Product Development te
 
 # Openings Coming Soon
 
-_Some awesome data jobs! Check back **soon**!_
+_MORE awesome data jobs! Check back **soon**!_
 
 # How to Apply?
 
