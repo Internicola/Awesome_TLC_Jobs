@@ -27,6 +27,53 @@ The New York City Taxi Limousine Commission is building a Product Development te
 
 *Link doesn't work? Go here: [NYC.Jobs](https://a127-jobs.nyc.gov/) and search job id: 384481*
 
+### Data Analyst
+**Short Description** In essence, your role is to uncover underlying data patterns, make information accessible to non-technical stakeholders, and take on large-scale research/modeling projects to help the agency make better decisions.
+
+**Your Day to Day** 
+- Develop and maintain data visualizations
+- Wrangle and clean large data sets
+- Develop techniques to streamline the data analysis workflow
+- Conduct rigorous experiments and build models 
+- Work with the Data Product Manager and Data Engineer to build out our self-service platform
+
+**About You** 
+- Interested in analyzing urban data
+- Passionate about data and able to self-motivate
+- Well-versed in data analysis tools like R, Python, and SQL
+- Experienced using tools like d3.js to tell stories
+- Familiar with statistical and econometric techniques
+- Comfortable taking on large-scale research projects
+- Interested in building tools to make information more accessible to non-technical stakeholders
+
+***Sound like a good role for you?  [Apply here!](https://a127-jobs.nyc.gov/psc/nycjobs/EMPLOYEE/HRMS/c/HRS_HRAM.HRS_APP_SCHJOB.GBL?Page=HRS_APP_JBPST&Action=U&FOCUS=Applicant&SiteId=1&JobOpeningId=385672&PostingSeq=1)***
+
+*Link doesn't work? Go here: [NYC.Jobs](https://a127-jobs.nyc.gov/) and search job id: 385672*
+
+### Data Engineer
+**Short Description** In essence, your role is to make our data accessible, streamlined, and usable. When your not thinking through large-scale data improvement projects, you will be working on building out the division's self-service platform, and taking on long-term research projects.
+
+**Your Day to Day** 
+- Work with our IT department to improve underlying data structures
+- Develop processes to make our agency's data easier to work with
+- Create automated processes to monitor integrity of processes
+- Work closely with our Data Product Manager and Data team to build out a self-service platform
+- Take on large-scale research projects
+
+**About You** 
+- ♥♥♥ data!
+- Have experience building data pipelines
+- Able to self-motivate
+- Well-versed in languages like R, Python, and SQL
+- Familiar with software architecture and design pattern best practices
+- Comfortable with using Git
+- Experience building full stack applications is a plus
+- Knowledge of NoSQL and SQL databases is a plus
+
+***Sound like a good role for you?  [Apply here!](https://a127-jobs.nyc.gov/psc/nycjobs/EMPLOYEE/HRMS/c/HRS_HRAM.HRS_APP_SCHJOB.GBL?Page=HRS_APP_JBPST&Action=U&FOCUS=Applicant&SiteId=1&JobOpeningId=385662&PostingSeq=1)***
+
+*Link doesn't work? Go here: [NYC.Jobs](https://a127-jobs.nyc.gov/) and search job id: 385662*
+
 ### Back Office Product Manager
 **Short Description** In essence, your role is to understand the needs of our back office staff as they serve our clients, prototype solutions to their problems, develop a product roadmap, and then work with our development team to implement your vision.
 
