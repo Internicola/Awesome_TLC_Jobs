@@ -2,11 +2,11 @@
 
 The New York City Taxi Limousine Commission is building a Product Development team. Our mission is to create products that help us better serve our staff, our licensees, and the millions of customers who rely on services like Uber, Lyft, Via, Juno, taxis, and more to get around the city. The TLC, a long-time trail blazer in building open data products, needs your help as we take on the next steps to improve data transparency and make city government a little more human-focused.
 <p>
-<br><br><br>
+<br><br>
 </p>
 <h1> Current Openings </h1>
 <p>
-<br><br><br>
+<br>
 </p>
 <h3> Client-Facing Product Manager </h3>
 <p> <b> Short Description </b> In essence, your role is to understand the needs of our clients, prototype solutions to their problems, develop a product roadmap, and then work with our development team to implement your vision.
@@ -111,7 +111,7 @@ The New York City Taxi Limousine Commission is building a Product Development te
 
 *Link doesn't work? Go here: [NYC.Jobs](https://a127-jobs.nyc.gov/) and search job id: 384481*
 <p>
-<br><br><br>
+<br><br>
 </p>
 <h1> Why Join Our Team? </h1>
 
@@ -124,13 +124,13 @@ The New York City Taxi Limousine Commission is building a Product Development te
 - 11 paid holidays, plus three weeks of vacation
 
 <p>
-<br><br><br>
+<br><br>
 </p>
 <h1> Openings Coming Soon  </h1>
 
 _MORE awesome data jobs! Check back **soon**!_
 <p>
-<br><br><br>
+<br><br>
 </p>
 <h1> How to Apply?   </h1>
 
