@@ -9,7 +9,7 @@ The New York City Taxi Limousine Commission is building a Product Development te
 <br>
 </p>
 <h3> Client-Facing Product Manager </h3>
-<p> <b> Short Description </b> In essence, your role is to understand the needs of our clients, prototype solutions to their problems, develop a product roadmap, and then work with our development team to implement your vision.
+<b> Short Description </b> <p>  In essence, your role is to understand the needs of our clients, prototype solutions to their problems, develop a product roadmap, and then work with our development team to implement your vision.
  </p>
 
 **Your Day to Day** 
