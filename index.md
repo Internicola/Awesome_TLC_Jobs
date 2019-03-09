@@ -96,7 +96,7 @@ The New York City Taxi Limousine Commission is building a Product Development te
 - Independently take on research projects to identify operational improvements
 - Create new datasets and tools to support our 200 person division's day-to-day operations and decision-making
 - Conduct exploratory research to systemically identify and reconcile data quality issues
-- Concieve and implement a modernization strategy to help the division shift away from legacy Access database-based tools to more modern tools
+- Conceive and implement a modernization strategy to help the division shift away from legacy Access database-based tools to more modern tools
 
 
 **About You** 
