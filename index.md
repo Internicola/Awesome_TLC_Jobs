@@ -87,6 +87,33 @@ The New York City Taxi Limousine Commission is building a Product Development te
 <p>
 <br><br><br>
 </p>
+<h3> Data & Systems Support Analyst </h3> 
+<p> <b> Short Description: </b> In essence, your role is to build tools and datasets to support our division's day-to-day data needs, independently conduct research projects to motivate operational changes & data improvement projects, and manage data requests from external entities.
+ </p>
+
+**Your Day to Day** 
+- Tackle ad hoc data requests for the media, FOILs, internal strategic decision-making, and City Council
+- Independently take on research projects to identify operational improvements
+- Create new datasets and tools to support our 200 person division's day-to-day operations and decision-making
+- Conduct exploratory research to systemically identify and reconcile data quality issues
+- Concieve and implement a modernization strategy to help the division shift away from legacy Access database-based tools to more modern tools
+
+
+**About You** 
+- ♥♥♥ data!
+- Extremely detail-oriented
+- Comfortable working independently 
+- Able to juggle multiple projects simultaneously under deadlines
+- Strong knowledge of data analysis tools like R, Python, and SQL
+- Excited about prototyping tools to improve day-to-day ops
+- Experience building full stack applications is a plus
+
+***Sound like a good role for you?  [Apply here!](https://a127-jobs.nyc.gov/psc/nycjobs/EMPLOYEE/HRMS/c/HRS_HRAM.HRS_APP_SCHJOB.GBL?Page=HRS_APP_JBPST&Action=U&FOCUS=Applicant&SiteId=1&JobOpeningId=386425&PostingSeq=1)***
+
+*Link doesn't work? Go here: [NYC.Jobs](https://a127-jobs.nyc.gov/) and search job id: 386425*
+<p>
+<br><br><br>
+</p>
 <h3> Back Office Product Manager </h3>
 <p>  <b> Short Description: </b>  In essence, your role is to understand the needs of our back office staff as they serve our clients, prototype solutions to their problems, develop a product roadmap, and then work with our development team to implement your vision.
  </p>
@@ -128,7 +155,7 @@ The New York City Taxi Limousine Commission is building a Product Development te
 </p>
 <h1> Openings Coming Soon  </h1>
 
-_MORE awesome data jobs! Check back **soon**!_
+Check back **soon**!
 <p>
 <br><br>
 </p>
