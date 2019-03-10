@@ -9,7 +9,7 @@ The New York City Taxi Limousine Commission is building a Product Development te
 <br>
 </p>
 <h3> Client-Facing Product Manager </h3>
-<p>  <b> Short Description: </b> In essence, your role is to understand the needs of our clients, prototype solutions to their problems, develop a product roadmap, and then work with our development team to implement your vision.
+<p>  <strong> Short Description: </strong> In essence, your role is to understand the needs of our clients, prototype solutions to their problems, develop a product roadmap, and then work with our development team to implement your vision.
  </p>
 
 **Your Day to Day** 
@@ -35,7 +35,7 @@ The New York City Taxi Limousine Commission is building a Product Development te
 <br><br><br>
 </p>
 <h3> Data Analyst </h3>
-<p>   <b> Short Description: </b>  In essence, your role is to uncover underlying data patterns, make information accessible to non-technical stakeholders, and take on large-scale research/modeling projects to help the agency make better decisions.
+<p>  <strong> Short Description: </strong>   In essence, your role is to uncover underlying data patterns, make information accessible to non-technical stakeholders, and take on large-scale research/modeling projects to help the agency make better decisions.
 </p>
 
 **Your Day to Day** 
@@ -61,7 +61,7 @@ The New York City Taxi Limousine Commission is building a Product Development te
 <br><br><br>
 </p>
 <h3> Data Engineer </h3> 
-<p> <b> Short Description: </b> In essence, your role is to make our data accessible, streamlined, and usable. When you're not working on large-scale data improvement projects, you will be building out the division's self-service platform, and taking on long-term research projects.
+<p>  <strong> Short Description: </strong>  In essence, your role is to make our data accessible, streamlined, and usable. When you're not working on large-scale data improvement projects, you will be building out the division's self-service platform, and taking on long-term research projects.
  </p>
 
 **Your Day to Day** 
@@ -88,7 +88,7 @@ The New York City Taxi Limousine Commission is building a Product Development te
 <br><br><br>
 </p>
 <h3> Data & Systems Support Analyst </h3> 
-<p> <b> Short Description: </b> In essence, your role is to build tools and datasets to support our division's day-to-day data needs, independently conduct research projects to motivate operational changes & data improvement projects, and manage data requests from external entities.
+<p>  <strong> Short Description: </strong>  In essence, your role is to build tools and datasets to support our division's day-to-day data needs, independently conduct research projects to motivate operational changes & data improvement projects, and manage data requests from external entities.
  </p>
 
 **Your Day to Day** 
@@ -115,7 +115,7 @@ The New York City Taxi Limousine Commission is building a Product Development te
 <br><br><br>
 </p>
 <h3> Back Office Product Manager </h3>
-<p>  <b> Short Description: </b>  In essence, your role is to understand the needs of our back office staff as they serve our clients, prototype solutions to their problems, develop a product roadmap, and then work with our development team to implement your vision.
+<p>  <strong> Short Description: </strong>   In essence, your role is to understand the needs of our back office staff as they serve our clients, prototype solutions to their problems, develop a product roadmap, and then work with our development team to implement your vision.
  </p>
 
 **Your Day to Day** 
